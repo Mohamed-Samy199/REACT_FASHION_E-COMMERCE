@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/REACT_FASHION_E-COMMERCE/static/css/main.e7440ea5.css",
+    "main.js": "/REACT_FASHION_E-COMMERCE/static/js/main.0f99ea77.js",
+    "static/media/fa-solid-900.ttf": "/REACT_FASHION_E-COMMERCE/static/media/fa-solid-900.422cfe2813b03d900c10.ttf",
+    "static/media/fa-brands-400.ttf": "/REACT_FASHION_E-COMMERCE/static/media/fa-brands-400.aff1938a5c48584fa92b.ttf",
+    "static/media/fa-solid-900.woff2": "/REACT_FASHION_E-COMMERCE/static/media/fa-solid-900.64d495f582d4a1590a6c.woff2",
+    "static/media/fa-brands-400.woff2": "/REACT_FASHION_E-COMMERCE/static/media/fa-brands-400.a914b121110f8b6e01c9.woff2",
+    "static/media/fa-regular-400.ttf": "/REACT_FASHION_E-COMMERCE/static/media/fa-regular-400.625dca125b58060788da.ttf",
+    "static/media/fa-regular-400.woff2": "/REACT_FASHION_E-COMMERCE/static/media/fa-regular-400.47074dec01b64a5db2c4.woff2",
+    "static/media/logo.png": "/REACT_FASHION_E-COMMERCE/static/media/logo.e16478c298a997bfda14.png",
+    "static/media/fa-v4compatibility.ttf": "/REACT_FASHION_E-COMMERCE/static/media/fa-v4compatibility.ea8535110e0c42fd0046.ttf",
+    "static/media/fa-v4compatibility.woff2": "/REACT_FASHION_E-COMMERCE/static/media/fa-v4compatibility.2ec4574b00d1d21ed0a3.woff2",
+    "index.html": "/REACT_FASHION_E-COMMERCE/index.html",
+    "main.e7440ea5.css.map": "/REACT_FASHION_E-COMMERCE/static/css/main.e7440ea5.css.map",
+    "main.0f99ea77.js.map": "/REACT_FASHION_E-COMMERCE/static/js/main.0f99ea77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7440ea5.css",
+    "static/js/main.0f99ea77.js"
+  ]
+}
