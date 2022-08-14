@@ -1,0 +1,15 @@
+.container-prodact{
+    padding : 15px 7%;
+    gap: 10rem;
+    flex-wrap: wrap;
+    position: absolute;
+}
+.container-prodact .box{
+    box-shadow : -8px 4px 10px 10px rgba(0,0,0,.5)
+}
+.container-prodact .box .add{
+    background : #141215
+}
+.container-prodact .box .add:hover{
+    background : #f9004d;
+}

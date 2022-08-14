@@ -1,0 +1,18 @@
+.details .numberOfItem .add{
+    background : #141215
+}
+.details .numberOfItem .add:hover{
+    background : #f9004d;
+}
+.remove{
+    background : red
+}
+.remove:hover{
+    background : #141215
+}
+.gap{
+    box-shadow : -1px 3px 3px 6px rgba(0,0,0,.2) ;
+}
+.gap:hover{
+    background : #f4e8ec
+}

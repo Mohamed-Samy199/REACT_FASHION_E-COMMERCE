@@ -1,0 +1,27 @@
+.image{
+    position: relative;
+}
+.image .one , .two , .there{
+    color : #f9004d;
+    position : absolute;
+    top: 50px;
+    right: 500px;
+    font-size : 30px;
+    background : #fff;
+    padding : 10px;
+    border-radius :5px;
+    opacity : 0
+}
+.two{
+    top: 180px;
+}
+.there{
+    top:304px
+}
+.image:hover .one ,.image:hover .two , .image:hover .there {
+    opacity : 1
+}
+.small-image:hover{
+    transform : scale(1.5);
+    transition : all 2s ease
+}

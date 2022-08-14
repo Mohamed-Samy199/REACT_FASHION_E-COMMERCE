@@ -1,0 +1,17 @@
+.container .nav a{
+    font-size : 20px;
+    color : #f9004d;
+    font-wight : border;
+}
+.container .nav a:hover{
+    color : #777
+}
+ul{
+    fontSize : 15px;
+    listStyle : none;
+    paddingBottom : 10px;
+    opacity :0;
+}
+a:hover .admin i  ul{
+    opacity :1;
+}

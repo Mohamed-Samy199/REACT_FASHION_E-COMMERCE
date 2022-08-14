@@ -1,0 +1,25 @@
+.click{
+    color: #fff;
+    padding: 15px 35px; 
+    margin: 20px; 
+    font-weight: bolder; 
+    font-size : 15px;
+    cursor: pointer;
+    background : #141215;
+    text-align : center;
+    letterSpacing : 5px
+}
+.click:hover{
+    background : #f9004d
+}
+.allImage{
+    margin : 30px;
+}
+.allImage img{
+    padding : 15px;
+    opacity : .9
+}
+.allImage img:hover{
+    opacity : 1;
+    cursor :pointer
+}

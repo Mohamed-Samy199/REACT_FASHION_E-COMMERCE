@@ -1,0 +1,28 @@
+.cards{
+    box-shadow : -4px 4px 4px 8px rgba(0,0,0,.2) ;
+    padding : 20px;
+    cursor : pointer
+}
+.cards:hover {
+    background : #f9004d;
+    
+}
+.cards:hover h2 , .cards:hover span , .cards:hover p{
+    color : #fff
+}
+.cards h2{
+    color : #f9004d;
+    font-size : 30px;
+    font-wight : bolder;
+    margin : 15px
+}
+.cards span{
+    font-size : 35px;
+    color : #555;
+    margin : 15px
+}
+.cards p{
+    ont-size : 15px;
+    color : #555;
+    margin : 15px
+}
